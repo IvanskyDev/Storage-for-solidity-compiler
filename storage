@@ -1,0 +1,18 @@
+{
+    "details": "Store & retreive value in a variable",
+    "methods": {
+        "retreive()": {
+            "details": "Return value ",
+            "returns": {
+                "_0": "value of 'number'"
+            }
+        },
+        "store(uint256)": {
+            "details": "Store value in variable",
+            "params": {
+                "num": "value to store"
+            }
+        }
+    },
+    "title": "Storage"
+}
