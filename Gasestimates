@@ -1,0 +1,11 @@
+{
+    "Creation": {
+        "codeDepositCost": "34400",
+        "executionCost": "87",
+        "totalCost": "34487"
+    },
+    "External": {
+        "retreive()": "398",
+        "store(uint256)": "20167"
+    }
+}
